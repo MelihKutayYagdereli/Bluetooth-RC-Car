@@ -11,7 +11,8 @@ The youtube link: https://youtu.be/ESh2nqOr_os
 
 You can ask me any question about the project via: kutay.yagdereli@outlook.com    
 
-Steering Mechanism:
-![20230213_010640](https://user-images.githubusercontent.com/122688232/218340673-783cc7b2-4874-42a6-a61c-b725ac3453a7.jpg)
 Overall Look:
 ![20230213_005429](https://user-images.githubusercontent.com/122688232/218340686-e5f6290b-6c70-443a-8157-095388602870.jpg)
+
+Steering Mechanism:
+![20230213_010640](https://user-images.githubusercontent.com/122688232/218340673-783cc7b2-4874-42a6-a61c-b725ac3453a7.jpg)
